@@ -27,8 +27,9 @@ public class SupermarketBillingSystem {
 				}else {
 					System.out.println("Invalid Choice.");
 				}
+				s.close();
 			}
-	}
+		}
 }
 
 
